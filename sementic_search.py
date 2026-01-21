@@ -163,25 +163,3 @@ find_similar_names("Muhammad")
 print("\n finding names similar to 'Ali':")
 find_similar_names("Ali")
 
-!git --version
-
-!git config --global user.name "Ihsan-ops62"
-!git config --global user.email "promrx56@gmail.com"
-
-!git clone https://github.com/Ihsan-ops62/colab-codespace.git
-
-!git init
-
-!git add .config
-
-!git add.
-
-!git add .
-
-# Commented out IPython magic to ensure Python compatibility.
-# %cd colab-codespace
-
-!cp "/sementic-search.ipynb"
-
-from google.colab import drive
-drive.mount('/content/drive')
